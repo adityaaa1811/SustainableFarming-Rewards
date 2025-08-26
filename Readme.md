@@ -49,7 +49,7 @@ We envision a future where sustainable farming becomes the most profitable choic
 
 ## Contract Address Details
 Contract ID: ST34N2KEEBPK480DKD09XR8FJR98EFNN6FPQMTFJ8.SustainableFarmingRewards
-![alt text](<Screenshot 2025-08-26 at 12.16.57 PM.png>)
+<img width="2934" height="1500" alt="image" src="https://github.com/user-attachments/assets/2c666081-52b6-4a51-a384-fc2c3ba8d27a" />
 
 **Network**: Stacks Mainnet/Testnet  
 **Contract Address**: *[To be added after deployment]*  
